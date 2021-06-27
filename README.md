@@ -5,42 +5,22 @@ My career includes architecture & developement of app solutions for Corporates/I
 Swift | Obj-C | Kotlin | Java | PHP | Nodejs | Reactjs | ReactNative | Angular | Typescript
 </p>
 
-# [Cupz](https://apps.apple.com/us/app/cupz-coffee-save/id1457236593)
+# iOS 
+
+## [Cupz](https://apps.apple.com/us/app/cupz-coffee-save/id1457236593)
 
 Cupz is the first coffee ordering system in Kuwait that provides the end users with a guaranteed cashback along with the enjoyable user experience design of the App, and much further benefits for both the users and the vendors.
 
 ### My Role ###
 
-### Contributions ###
-
 ### Technologies ###
-Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lottie-ios, CI/CD -> Fastlane
+Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | MaterialComponentsiOS | lottie-ios
 <p align="center">
-<img src="images/cupz1.png" width="190">&nbsp;&nbsp;&nbsp;
-<img src="images/cupz2.png" width="190">&nbsp;&nbsp;&nbsp;
-<img src="images/cupz3.png" width="190">&nbsp;&nbsp;&nbsp;
+<img src="images/cupz1.png" width="190">&nbsp;&nbsp;
+<img src="images/cupz2.png" width="190">&nbsp;&nbsp;
+<img src="images/cupz3.png" width="190">&nbsp;&nbsp;
 <img src="images/cupz4.png" width="190">
 </p>
-
-# [Port of Peri Peri](https://apps.apple.com/us/app/the-port-of-peri-peri/id1478917635)
-
-The Port of Peri Peri app is a convenient way to skip the line and order ahead. Rewards are built right in, so you’ll collect Chillies and start earning free drinks and food with every purchase.
-
-Pay in store
-Save time and earn Rewards when you pay with The Port of Peri Peri app at many stores in the U.S.
-
-### My Role ###
-
-### Contributions ###
-
-### Technologies ###
-Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lottie-ios, CI/CD -> Fastlane
-<p align="center">
-<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230">
-</p>
-
 
 # [Dukkaani](https://apps.apple.com/ae/app/dukkaani-دكاني/id1048611351)
 
@@ -52,33 +32,33 @@ Buyer can have it delivered to any address-home, office or the park.
 
 ### My Role ###
 
-### Contributions ###
-
 ### Technologies ###
-Swift(4-5), Firebase, Firebase Messaging, CoreLocation, CoreData, Intercom, Hero, SwiftJWT, Facebook SDK, lottie-ios, CI/CD -> Fastlane
+Swift(4-5) | Firebase | Firebase Messaging | Firestore | CoreLocation | CoreData | Intercom | Hero | SwiftJWT | Facebook SDK | lottie-ios | CI/CD -> Fastlane
 <p align="center">
 <img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="" width="230">
 </p>
 
+# [Port of Peri Peri](https://apps.apple.com/us/app/the-port-of-peri-peri/id1478917635)
 
+The Port of Peri Peri app is a convenient way to skip the line and order ahead. Rewards are built right in, so you’ll collect Chillies and start earning free drinks and food with every purchase.
 
-# [LG Sales Control](#)
-
+Pay in store
+Save time and earn Rewards when you pay with The Port of Peri Peri app at many stores in the U.S.
 
 ### My Role ###
 
-### Contributions ###
-
 ### Technologies ###
-Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lottie-ios, CI/CD -> Fastlane
+Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | Stripe | lottie-ios | QR Codes 
 <p align="center">
 <img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="" width="230">
 </p>
 
+
+# Android
 
 # [BlinkChat](https://play.google.com/store/apps/details?id=com.devicebee.linkedinChat)
 BlinkChat is the new app that keeps you connected to your most values network, your. With BlinkChat, you can instantly chat with whoever is online from your network, sending offline messages is also a breeze because once your recipient is available, they'll receive your instant message. 
@@ -87,14 +67,38 @@ BlinkChat is for those that need to keep in touch with their friends and familie
 
 ### My Role ###
 
-### Contributions ###
-
 ### Technologies ###
 Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lottie-ios, CI/CD -> Fastlane
 <p align="center">
 <img src="" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="" width="230" title="Pay">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="" width="230" title="Upcoming">
+</p>
+
+## [LG Sales Control](#)
+
+### My Role ###
+
+### Technologies ###
+Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lottie-ios, CI/CD -> Fastlane
+<p align="center">
+<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="" width="230">
+</p>
+
+# Front-End
+
+## [Lazzy](#)
+
+### My Role ###
+
+### Technologies ###
+Reactjs | Material Components | CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lottie-ios, CI/CD -> Fastlane
+<p align="center">
+<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="" width="230">
 </p>
 
 # Other Projects
