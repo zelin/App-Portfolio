@@ -59,7 +59,7 @@ Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | Stripe | lottie-ios | Q
 </p>
 
 
-# Android
+# 📱 Android
 
 ## [BlinkChat](https://play.google.com/store/apps/details?id=com.devicebee.linkedinChat)
 
@@ -72,9 +72,9 @@ BlinkChat is for those that need to keep in touch with their friends and familie
 ### Technologies ###
 Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lottie-ios, CI/CD -> Fastlane
 <p align="center">
-<img src="images/blink1.png" width="190">&nbsp;&nbsp;
-<img src="images/blink2.png" width="190">&nbsp;&nbsp;
-<img src="images/blink3.png" width="190">&nbsp;&nbsp;
+<img src="images/blink1.png" width="190">
+<img src="images/blink2.png" width="190">
+<img src="images/blink3.png" width="190">
 <img src="images/blink4.png" width="190">
 </p>
 
@@ -92,16 +92,14 @@ Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lotti
 
 # 💻 Front-End
 
-## [Lazzy](#)
+## [Lazzy](http://www.lazzy.com)
 
 ### My Role ###
 
 ### Technologies ###
 Reactjs | Material Components | CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lottie-ios, CI/CD -> Fastlane
 <p align="center">
-<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230">
+<img src="images/lazzy.png" width="700">
 </p>
 
 # Other Projects
