@@ -16,10 +16,10 @@ Cupz is the first coffee ordering system in Kuwait that provides the end users w
 ### Technologies ###
 Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lottie-ios, CI/CD -> Fastlane
 <p align="center">
-<img src="images/cupz1.png" width="230">&nbsp;&nbsp;&nbsp;
-<img src="images/cupz2.png" width="230">&nbsp;&nbsp;&nbsp;
-<img src="images/cupz3.png" width="230">&nbsp;&nbsp;&nbsp;
-<img src="images/cupz4.png" width="230">
+<img src="images/cupz1.png" width="190">&nbsp;&nbsp;&nbsp;
+<img src="images/cupz2.png" width="190">&nbsp;&nbsp;&nbsp;
+<img src="images/cupz3.png" width="190">&nbsp;&nbsp;&nbsp;
+<img src="images/cupz4.png" width="190">
 </p>
 
 # [Port of Peri Peri](https://apps.apple.com/us/app/the-port-of-peri-peri/id1478917635)
