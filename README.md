@@ -94,6 +94,8 @@ Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lotti
 
 ## [Lazzy](http://www.lazzy.com)
 
+Lazzy designs, develops, and deploys small to enterprise scale delivery technology solutions for companies who need to integrate or expand their delivery operations over multiple internet channels including phone, web, mobile web, and mobile applications.
+
 ### My Role ###
 
 ### Technologies ###
@@ -107,12 +109,14 @@ Reactjs | Material Components | CoreLocation, Hero, SwiftJWT, MaterialComponents
 ### iOS
 
 1. [Novio](https://apps.apple.com/tr/app/novio/id1511527011)
-2. [Shitswie](https://apps.apple.com/sa/app/shitswee/id1503739113)
+2. [Shitswee?](https://apps.apple.com/sa/app/shitswee/id1503739113)
 3. [The Vow](https://apps.apple.com/us/app/the-vow-ring-finder/id509902433)
+4. [Tect O Trak](https://apps.apple.com/gb/app/tect-o-trak/id1175005465)
 
 ### Android
 
-1. [NEXT - Book a ride in few taps](https://play.google.com/store/apps/details?id=com.devicebee.app.nextcar&hl=en&gl=US)
+1. [NEXT - Book a ride in few taps](https://play.google.com/store/apps/details?id=com.devicebee.app.nextcar)
+2. [Tnerit](https://play.google.com/store/apps/details?id=com.devicebee.tnerit)
 
 ### Front End
 
@@ -120,25 +124,17 @@ Reactjs | Material Components | CoreLocation, Hero, SwiftJWT, MaterialComponents
 
 # Open Source Contributions
 
-## []() 
-An easy multiple image picker controller for photo library.
+## [Animated Star Rating](https://github.com/zelin/Animated-Star-Rating) 
+A star view to set rating in an animated way
+
 <p align="center">
-<img src="https://i.imgflip.com/38fus8.gif" />
-<img src="https://i.imgflip.com/38fus8.gif" />
+<img width="230" src="images/start.gif" />
 </p>
 
 ## []() 
-An easy multiple image picker controller for photo library.
+Ring Sizer is a simple widget to find the ring size by placing ring on iPhone/iPad screen
 <p align="center">
-<img src="https://i.imgflip.com/38fus8.gif" />
-<img src="https://i.imgflip.com/38fus8.gif" />
-</p>
-
-## []() 
-An easy multiple image picker controller for photo library.
-<p align="center">
-<img src="https://i.imgflip.com/38fus8.gif" />
-<img src="https://i.imgflip.com/38fus8.gif" />
+<img width="230" src="images/size.gif" />
 </p>
 
 ## Contact Info:
