@@ -1,11 +1,10 @@
-Senior Mobile Apps Developer with 8+ years of experience.</br> 
-My career includes architecture & developement of app solutions for Corporates/Individual clients in Dubai, US and Pakistan.</br></br>
+Senior Mobile Apps Developer with 8+ years of experience. My career includes architecture & developement of app solutions for Corporates/Individual clients in Dubai, US and Pakistan.</br></br>
 
 <p align="center"><b>👨‍💻 Language stack</b></br></br> 
 Swift | Obj-C | Kotlin | Java | PHP | Nodejs | Reactjs | ReactNative | Angular | Typescript
 </p>
 
-# iOS 
+#  iOS 
 
 ## [Cupz](https://apps.apple.com/us/app/cupz-coffee-save/id1457236593)
 
@@ -14,7 +13,7 @@ Cupz is the first coffee ordering system in Kuwait that provides the end users w
 ### My Role ###
 
 ### Technologies ###
-Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | MaterialComponentsiOS | lottie-ios
+Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | MaterialComponents-iOS | lottie-ios
 <p align="center">
 <img src="images/cupz1.png" width="190">&nbsp;&nbsp;
 <img src="images/cupz2.png" width="190">&nbsp;&nbsp;
@@ -53,9 +52,10 @@ Save time and earn Rewards when you pay with The Port of Peri Peri app at many s
 ### Technologies ###
 Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | Stripe | lottie-ios | QR Codes 
 <p align="center">
-<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230">
+<img src="images/port1.png" width="190">&nbsp;&nbsp;
+<img src="images/port2.png" width="190">&nbsp;&nbsp;
+<img src="images/port3.png" width="190">&nbsp;&nbsp;
+<img src="images/port4.png" width="190">
 </p>
 
 
@@ -72,9 +72,10 @@ BlinkChat is for those that need to keep in touch with their friends and familie
 ### Technologies ###
 Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lottie-ios, CI/CD -> Fastlane
 <p align="center">
-<img src="" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230" title="Pay">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230" title="Upcoming">
+<img src="images/blink1.png" width="190">&nbsp;&nbsp;
+<img src="images/blink2.png" width="190">&nbsp;&nbsp;
+<img src="images/blink3.png" width="190">&nbsp;&nbsp;
+<img src="images/blink4.png" width="190">
 </p>
 
 ## [LG Sales Control](#)
@@ -89,7 +90,7 @@ Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lotti
 <img src="" width="230">
 </p>
 
-# Front-End
+# 💻 Front-End
 
 ## [Lazzy](#)
 
@@ -104,10 +105,20 @@ Reactjs | Material Components | CoreLocation, Hero, SwiftJWT, MaterialComponents
 </p>
 
 # Other Projects
-3. [Novio](https://apps.apple.com/tr/app/novio/id1511527011)
-5. [The Vow](https://apps.apple.com/us/app/the-vow-ring-finder/id509902433)
-6. [NEXT - Book a ride in few taps](https://play.google.com/store/apps/details?id=com.devicebee.app.nextcar&hl=en&gl=US)
-4. [SHIFT Portal](https://manage.tryshiftt.com/)
+
+### iOS
+
+1. [Novio](https://apps.apple.com/tr/app/novio/id1511527011)
+2. [Shitswie](https://apps.apple.com/sa/app/shitswee/id1503739113)
+3. [The Vow](https://apps.apple.com/us/app/the-vow-ring-finder/id509902433)
+
+### Android
+
+1. [NEXT - Book a ride in few taps](https://play.google.com/store/apps/details?id=com.devicebee.app.nextcar&hl=en&gl=US)
+
+### Front End
+
+1. [SHIFT Portal](https://manage.tryshiftt.com/)
 
 # Open Source Contributions
 
