@@ -22,7 +22,7 @@ Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | MaterialComponentsiOS |
 <img src="images/cupz4.png" width="190">
 </p>
 
-# [Dukkaani](https://apps.apple.com/ae/app/dukkaani-دكاني/id1048611351)
+## [Dukkaani](https://apps.apple.com/ae/app/dukkaani-دكاني/id1048611351)
 
 Dukkaani is a pan Arab smart shopping platform transforming all shopping stores to sell their products online and we started in UAE as beginning, also it is the only application that provides all grocery items supported by clear images.
 
@@ -35,12 +35,13 @@ Buyer can have it delivered to any address-home, office or the park.
 ### Technologies ###
 Swift(4-5) | Firebase | Firebase Messaging | Firestore | CoreLocation | CoreData | Intercom | Hero | SwiftJWT | Facebook SDK | lottie-ios | CI/CD -> Fastlane
 <p align="center">
-<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230">
+<img src="images/duk1.png" width="190">&nbsp;&nbsp;
+<img src="images/duk2.png" width="190">&nbsp;&nbsp;
+<img src="images/duk3.png" width="190">&nbsp;&nbsp;
+<img src="images/duk4.png" width="190">
 </p>
 
-# [Port of Peri Peri](https://apps.apple.com/us/app/the-port-of-peri-peri/id1478917635)
+## [Port of Peri Peri](https://apps.apple.com/us/app/the-port-of-peri-peri/id1478917635)
 
 The Port of Peri Peri app is a convenient way to skip the line and order ahead. Rewards are built right in, so you’ll collect Chillies and start earning free drinks and food with every purchase.
 
@@ -60,7 +61,8 @@ Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | Stripe | lottie-ios | Q
 
 # Android
 
-# [BlinkChat](https://play.google.com/store/apps/details?id=com.devicebee.linkedinChat)
+## [BlinkChat](https://play.google.com/store/apps/details?id=com.devicebee.linkedinChat)
+
 BlinkChat is the new app that keeps you connected to your most values network, your. With BlinkChat, you can instantly chat with whoever is online from your network, sending offline messages is also a breeze because once your recipient is available, they'll receive your instant message. 
 
 BlinkChat is for those that need to keep in touch with their friends and families with just easy clicks and securely.
