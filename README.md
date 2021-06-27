@@ -1,6 +1,9 @@
-Senior Mobile Apps Developer with 8+ years of experience. 
-My career includes architecture & developement of app solutions for Corporates/Individual clients in Dubai, US and Pakistan.
-Language stack includes Swift | Obj-C | Kotlin | Java | PHP | Nodejs | Reactjs | ReactNative | Angular | Typescript
+Senior Mobile Apps Developer with 8+ years of experience.</br> 
+My career includes architecture & developement of app solutions for Corporates/Individual clients in Dubai, US and Pakistan.</br></br>
+
+<p align="center"><b>👨‍💻 Language stack</b></br></br> 
+Swift | Obj-C | Kotlin | Java | PHP | Nodejs | Reactjs | ReactNative | Angular | Typescript
+</p>
 
 # [Cupz](https://apps.apple.com/us/app/cupz-coffee-save/id1457236593)
 
@@ -13,9 +16,10 @@ Cupz is the first coffee ordering system in Kuwait that provides the end users w
 ### Technologies ###
 Swift(4-5), Firebase, CoreLocation, Hero, SwiftJWT, MaterialComponentsiOS, lottie-ios, CI/CD -> Fastlane
 <p align="center">
-<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="230">
+<img src="images/cupz1.png" width="230">&nbsp;&nbsp;&nbsp;
+<img src="images/cupz2.png" width="230">&nbsp;&nbsp;&nbsp;
+<img src="images/cupz3.png" width="230">&nbsp;&nbsp;&nbsp;
+<img src="images/cupz4.png" width="230">
 </p>
 
 # [Port of Peri Peri](https://apps.apple.com/us/app/the-port-of-peri-peri/id1478917635)
