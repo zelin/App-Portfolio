@@ -117,10 +117,10 @@ The application connects with the available service providers in the area accord
 Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
 
 <p align="center">
-<img src="images/recovery1.png" width="190">
-<img src="images/recovery2.png" width="190">
-<img src="images/recovery3.png" width="190">
-<img src="images/recovery4.png" width="190">
+<img src="images/recovery1.jpg" width="190">
+<img src="images/recovery2.jpg" width="190">
+<img src="images/recovery3.jpg" width="190">
+<img src="images/recovery4.jpg" width="190">
 </p>
 
 # 💻 Front-End
