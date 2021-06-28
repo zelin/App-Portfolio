@@ -12,8 +12,10 @@ Cupz is the first coffee ordering system in Kuwait that provides the end users w
 
 ### My Role ###
 
+Sole iOS developer. Implemented both app and firebase architecture as per clients requirments and business logic. Entire solution includes mobile apps iOS/Android, firebase functions and angular based backend portal for admins.
+
 ### Technologies ###
-Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | MaterialComponents-iOS | lottie-ios
+Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | MaterialComponents-iOS | Storyboards | lottie-ios | Firebase Functions
 <p align="center">
 <img src="images/cupz1.png" width="190">&nbsp;&nbsp;
 <img src="images/cupz2.png" width="190">&nbsp;&nbsp;
@@ -30,10 +32,10 @@ Groceries delivered to you in just a few clicks! No need to go out to the superm
 Buyer can have it delivered to any address-home, office or the park.
 
 ### My Role ###
-Team Lead & Architect for Dukkaani mobile apps (iOS/Android). My resposibilites included complete structural architecture and development of iOS application. The architecture also includes AI based smart reporting system. 
+Team Lead & Architect for Dukkaani mobile apps (iOS/Android). My resposibilites included complete structural architecture and development of iOS application and create a complete app and backend architecture based on requirements. The architecture also includes AI based smart reporting system. 
 
 ### Technologies ###
-Swift(4-5) | Firebase | Firebase Messaging | Firestore | CoreLocation | CoreData | Intercom | Hero | SwiftJWT | Facebook SDK | XCTests | lottie-ios | CD -> Fastlane
+Swift(4-5) | Firebase | Firebase Messaging | Firestore | CoreLocation | Storyboards | CoreData | Intercom | Hero | SwiftJWT | Facebook SDK | XCTests | lottie-ios | CD -> Fastlane
 
 <p align="center">
 <img src="images/duk1.png" width="190">&nbsp;&nbsp;
@@ -50,9 +52,10 @@ Pay in store
 Save time and earn Rewards when you pay with The Port of Peri Peri app at many stores in the U.S.
 
 ### My Role ###
+Sole developer. Entire solution includes mobile apps iOS/Android, an automated app for clover device to manage the incoming orders and a backend portal for admins.
 
 ### Technologies ###
-Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | Clover | Stripe | QR Codes 
+Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | Clover | Stripe | QR Codes
 <p align="center">
 <img src="images/port1.png" width="190">&nbsp;&nbsp;
 <img src="images/port2.png" width="190">&nbsp;&nbsp;
@@ -66,6 +69,8 @@ Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | Clover | Stripe | QR Co
 Deal Bazzar is the biggest discount saving App in Pakistan. Through Deal Bazzar you'll find offers, discounts, coupons from popular restaurants, Saloons and food stores etc. All discounts in Deal Bazzar are free and are shown directly on your phone's screen for you to show the cashier.
 
 ### My Role ###
+
+Team Lead & Architect for iOS app. The application is a startup and my resposibilites included complete structural architecture and development of iOS application.
 
 ### Technologies ###
 Swift 4 | Firebase | CoreLocation | Hero | SwiftJWT | Alamofire | GoogleMaps | UBER SDK | Mixpanel | Storyboards
@@ -85,6 +90,7 @@ BlinkChat is the new app that keeps you connected to your most values network, y
 BlinkChat is for those that need to keep in touch with their friends and families with just easy clicks and securely.
 
 ### My Role ###
+Team Lead & Architect. I oversaw the development of iOS app and developed android version. The communication protocols include Socketio based server enhanced with firebase.
 
 ### Technologies ###
 Java | Firebase | Google APIs | Retrofit | Facebook SDK | Picasso | Rebus-Utils | JUnit | Socketio
@@ -96,8 +102,9 @@ Java | Firebase | Google APIs | Retrofit | Facebook SDK | Picasso | Rebus-Utils 
 </p>
 
 ## [LG Sales Control](#)
-
+LG Sales control is an in house app for LG middle east sales team. The app handles daily operations of sales team.
 ### My Role ###
+I performed development as an android developer.
 
 ### Technologies ###
 Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Rebus-Utils | Mockito | JUnit
@@ -112,6 +119,7 @@ Recovery is an on demand application that allows the customers to immediately bo
 The application connects with the available service providers in the area according to user's set location.
 
 ### My Role ###
+Team Lead and android developer. The application uses event driver and socketio based architectural pattern as communication protocls. 
 
 ### Technologies ###
 Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
@@ -130,6 +138,7 @@ Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Goo
 Lazzy designs, develops, and deploys small to enterprise scale delivery technology solutions for companies who need to integrate or expand their delivery operations over multiple internet channels including phone, web, mobile web, and mobile applications.
 
 ### My Role ###
+As a front end developer, I updated the existing management system ensuring the stability of the system and adding new features and modules.
 
 ### Technologies ###
 Reactjs | Material UI Components | AWS | SWR | Loadash | React Hooks | React Virtualized | Context API
@@ -141,7 +150,10 @@ Reactjs | Material UI Components | AWS | SWR | Loadash | React Hooks | React Vir
 
 With shift you will move to the next level in the online business space. SHIFT provide you with your own customizable e-store that will suit all your needs. Available with In-depth data on a user-friendly dashboard to help track your Shift activity.
 
+SHIFT portal is a startup with a friend. The system works on the principle of shopify but similar and is designed to target micro as well as macro businesses.
+
 ### My Role ###
+Sole architect and solution developer.
 
 ### Technologies ###
 Angular | Material UI Components | Ng Zorro | Typescript | Firestore | Firebase | Google Maps | Automation | Elastic Search
