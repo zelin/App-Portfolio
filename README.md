@@ -121,14 +121,14 @@ Reactjs | Material UI Components | AWS | SWR | Loadash | React Hooks | React Vir
 
 ## [SHIFT Portal](https://manage.tryshiftt.com/)
 
-Lazzy designs, develops, and deploys small to enterprise scale delivery technology solutions for companies who need to integrate or expand their delivery operations over multiple internet channels including phone, web, mobile web, and mobile applications.
+With shift you will move to the next level in the online business space. SHIFT provide you with your own customizable e-store that will suit all your needs. Available with In-depth data on a user-friendly dashboard to help track your Shift activity.
 
 ### My Role ###
 
 ### Technologies ###
 Angular | Material UI Components | Ng Zorro | Typescript | Firestore | Firebase | Google Maps | Automation | Elastic Search
 <p align="center">
-<img src="images/lazzy.png" width="700">
+<img src="images/shift.png" width="700">
 </p>
 
 
