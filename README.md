@@ -125,7 +125,7 @@ Team Lead and android developer. The application uses event driver and socketio 
 Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
 
 <p align="center">
-<img src="images/recovery1.jpg" width="190">
+<img src="images/recovery.jpg" width="190">
 <img src="images/recovery2.jpg" width="190">
 <img src="images/recovery3.jpg" width="190">
 <img src="images/recovery4.jpg" width="190">
@@ -161,7 +161,6 @@ Angular | Material UI Components | Ng Zorro | Typescript | Firestore | Firebase 
 <img src="images/shift.png" width="700">
 </p>
 
-
 # Other Projects
 
 ### iOS
@@ -190,14 +189,6 @@ A star view to set rating in an animated way
 </p>
 
 ## [Ring Sizer]() 
-Ring Sizer is a simple widget to find the ring size by placing ring on iPhone/iPad screen
-<p align="center">
-<img width="230" src="images/size.gif" />
-</p>
-
-# Volunteer projects
-
-## [Healthcare4All]() 
 Ring Sizer is a simple widget to find the ring size by placing ring on iPhone/iPad screen
 <p align="center">
 <img width="230" src="images/size.gif" />
