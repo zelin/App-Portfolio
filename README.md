@@ -87,7 +87,7 @@ BlinkChat is for those that need to keep in touch with their friends and familie
 ### My Role ###
 
 ### Technologies ###
-Java | Firebase | Google APIs | Retrofit | Facebook SDK | Picasso | Rebus-Utils | JUnit
+Java | Firebase | Google APIs | Retrofit | Facebook SDK | Picasso | Rebus-Utils | JUnit | Socketio
 <p align="center">
 <img src="images/blink1.png" width="190">
 <img src="images/blink2.png" width="190">
@@ -103,6 +103,24 @@ Java | Firebase | Google APIs | Retrofit | Facebook SDK | Picasso | Rebus-Utils 
 Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Rebus-Utils | Mockito | JUnit
 <p align="center">
 <img src="images/lg.png" width="630">
+</p>
+
+## [Recovery](https://play.google.com/store/apps/details?id=com.devicebee.recovery)
+
+Recovery is an on demand application that allows the customers to immediately book a recovery service using the app within just few taps. You will never be stuck on the road again, Recovery covers the whole UAE. Recovery will tow your vehicle to your favorite garage, or  can recover your car so you are back on the road in no time. Flat tire? Out of fuel? stuck somewhere? battery died? No problem!
+
+The application connects with the available service providers in the area according to user's set location.
+
+### My Role ###
+
+### Technologies ###
+Java | Firebase | Google APIs | Retrofit | And-Camera | Picasso | Socketio | Google Maps
+
+<p align="center">
+<img src="images/recovery1.png" width="190">
+<img src="images/recovery2.png" width="190">
+<img src="images/recovery3.png" width="190">
+<img src="images/recovery4.png" width="190">
 </p>
 
 # 💻 Front-End
@@ -141,13 +159,14 @@ Angular | Material UI Components | Ng Zorro | Typescript | Firestore | Firebase 
 3. [The Vow](https://apps.apple.com/us/app/the-vow-ring-finder/id509902433)
 4. [Tect O Trak](https://apps.apple.com/gb/app/tect-o-trak/id1175005465)
 5. [Tasweet](https://apps.apple.com/us/app/تصويت/id1539950284)
+6. [Wajeeh](https://apps.apple.com/us/app/id1316899768)
 
 ### Android
 
 1. [NEXT - Book a ride in few taps](https://play.google.com/store/apps/details?id=com.devicebee.app.nextcar)
 2. [Tnerit](https://play.google.com/store/apps/details?id=com.devicebee.tnerit)
-3. [Tnerit](https://play.google.com/store/apps/details?id=com.devicebee.tnerit)
-4. [Tnerit](https://play.google.com/store/apps/details?id=com.devicebee.tnerit)
+3. [Eros](https://play.google.com/store/apps/details?id=com.devicebee.eros)
+4. [Sicuro](https://sicurogroup.com)  
 
 # Open Source Contributions
 
