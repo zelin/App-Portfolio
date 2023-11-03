@@ -1,4 +1,4 @@
-Senior Mobile Apps Developer with 8+ years of experience. My career includes architecture & developement of app solutions for Corporates/Individual clients in Dubai, US and Pakistan.</br></br>
+Senior Mobile Apps Developer with 8+ years of experience. My career includes architecture & developement of app solutions for Corporates/Individual clients in Dubai, UK, US and Pakistan.</br></br>
 
 <p align="center"><b>👨‍💻 Language stack</b></br></br> 
 Swift | Obj-C | Kotlin | Java | PHP | Nodejs | Reactjs | ReactNative | Angular | Typescript
