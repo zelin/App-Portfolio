@@ -44,26 +44,6 @@ Swift(4-5) | Firebase | Firebase Messaging | Firestore | CoreLocation | Storyboa
 <img src="images/duk4.png" width="190">
 </p>
 
-## [Port of Peri Peri](https://apps.apple.com/us/app/the-port-of-peri-peri/id1478917635)
-
-The Port of Peri Peri app is a convenient way to skip the line and order ahead. Rewards are built right in, so you’ll collect Chillies and start earning free drinks and food with every purchase.
-
-Pay in store
-Save time and earn Rewards when you pay with The Port of Peri Peri app at many stores in the U.S.
-
-### My Role ###
-Sole developer. Entire solution includes mobile apps iOS/Android, an automated app for clover device to manage the incoming orders and a backend portal for admins.
-
-### Technologies ###
-Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | Clover | Stripe | QR Codes
-<p align="center">
-<img src="images/port1.png" width="190">&nbsp;&nbsp;
-<img src="images/port2.png" width="190">&nbsp;&nbsp;
-<img src="images/port3.png" width="190">&nbsp;&nbsp;
-<img src="images/port4.png" width="190">
-</p>
-
-
 ## [Deal Bazzar](https://apps.apple.com/us/app/deal-bazzar/id1436691938)
 
 Deal Bazzar is the biggest discount saving App in Pakistan. Through Deal Bazzar you'll find offers, discounts, coupons from popular restaurants, Saloons and food stores etc. All discounts in Deal Bazzar are free and are shown directly on your phone's screen for you to show the cashier.
