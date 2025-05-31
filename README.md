@@ -1,7 +1,111 @@
-Senior Mobile Apps Developer with 8+ years of experience. My career includes architecture & developement of app solutions for Corporates/Individual clients in Dubai, UK, US and Pakistan.</br></br>
+<div id="header" align="center">
+  <h2>Hi 👋 I'm Muhammad Umar</h2>
+  <div id="badges">
+      <h3 style="margin-top: -10px;">Entrepreneur | Mentor | Senior Software Engineer | AI Enthusiast</h3>
+      <a href="https://www.linkedin.com/in/muhammad-umar-sse"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge"></a>  
+      <a href="https://neberox.com"><img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&amp;logo=house&amp;logoColor=white" alt="Website Badge"> </a>
+  </div>
+</div>
 
-<p align="center"><b>👨‍💻 Language stack</b></br></br> 
-Swift | Obj-C | Kotlin | Java | PHP | Nodejs | Reactjs | ReactNative | Angular | Typescript
+#### 🌟 About Me :
+
+I am a Staff Software engineer, a mentor and an entrepreneur from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Birmingham, UK.
+Advocate of best coding practices and agile development.
+
+Expert in cross-platform and native code development for iOS and Android
+Experienced in crafting successful mobile products with elegant interfaces
+Seasoned mentor, fostering meaningful connections and driving collective success
+
+To continue my journey to better myself every day.
+(ہے جستجو کہ خوب سے ہے خوب تر کہاں)
+
+#### 🎓 Mentorship and Consultation :
+
+👋 As a passionate mentor and consultant in the tech industry, I'm here to help you navigate your career path, tackle challenging technical problems, and provide guidance on professional development.
+
+**How I Can Assist:**
+
+* Career advice and planning
+* Technical problem-solving
+* Code reviews and feedback
+* Project brainstorming and ideation
+* General mentorship and guidance
+
+Feel free to schedule a meeting with me using the "Book Now" button
+
+[![Schedule a Meeting with Me](https://img.shields.io/badge/Schedule%20a%20Meeting-Book%20Now-blue?style=for-the-badge&logo=calendly)](https://calendly.com/ee_umar)
+
+#### 👨‍💻 Skills :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android " width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="40" height="40">
+</div>
+
+#### 💬 Languages :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Objective-C" alt="Objective-C" width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40">
+</div>
+
+#### 💽 Databases :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40">
+</div>
+
+#### 🛠️ Tools & Frameworks :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="30" height="30">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" title="Pycharm" alt="Pycharm" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original-wordmark.svg" title="CakePHP" alt="CakePHP" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" title="CircleCI" alt="CircleCI" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40">
+</div>
+
+#  iOS 
+
+## [Economist App](https://apps.apple.com/us/app/the-economist-us-world-news/id1239397626)
+
+The Economist app provides users with intelligent insights on global affairs, finance, politics, science, and culture through high-quality journalism. The app features:
+
+Full access to weekly issues of The Economist magazine
+Daily briefings and curated global news summaries
+Offline reading and audio versions of articles
+Personalized content recommendations
+Bookmarking and sharing functionality
+
+### My Role ###
+
+Significantly contributed to The Economist's digital transformation by addressing challenges in a large unstructured audio codebase of their mobile application, transforming it into a highly maintainable and scalable code.
+
+Implemented customizable audio tracklist feature, allowing users to create personalised tracklists.
+
+Developed feature components in swift for iOS, designed to be used within react native, optimising performance for key features like edition downloads, audio playlists, and iOS media player controls.
+
+Developed iOS version of an efficient offline download manager component and integrated in react native, for downloading audios for offline listening and optimising storage
+
+Introduced a dedicated podcast section and developed an adaptive and customizable paywall architecture, enabling users to choose versatile subscription models through remote settings in Firebase.
+
+### Technologies ###
+Swift(4-5) | Firebase | React-Native | GraphQL | SwiftJWT | Storyboards | lottie-ios
+
+<p align="center">
+<img src="images/economist/5.webp" width="190">&nbsp;&nbsp;
+<img src="images/economist/3.webp" width="190">&nbsp;&nbsp;
+<img src="images/economist/4.webp" width="190">&nbsp;&nbsp;
+<img src="images/economist/2.webp" width="390">&nbsp;&nbsp;
 </p>
 
 #  iOS 
