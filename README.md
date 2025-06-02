@@ -76,6 +76,34 @@ Feel free to schedule a meeting with me using the "Book Now" button
 
 #  iOS 
 
+## [Bond By Voice](In Works)
+
+A mobile app that transforms children's songs, stories, and lullabies by integrating a parent's voice to create a deeply personal experience.
+Designed to strengthen the emotional bond between parents and children through personalized audio content.
+
+### My Role ###
+
+Leading the development of a react native based iOS/Android mobile application that integrates parental voices into children’s songs, stories, and lullabies, leveraging AI to create a deeply personalised and engaging experience for children.
+
+Utilising AWS Amplify for backend services, including user authentication, file storage, and real-time data synchronisation across devices.
+
+Implementing AWS SageMaker for model training and AWS MediaConvert for processing videos uploaded by users.
+
+Managing secure data handling through Core Data and CloudKit, enabling users to store and sync customised audio content across iOS devices.
+
+Implemented customizable video/audio tracklist feature, allowing users to create personalised tracklists.
+
+Developed feature components in swift for iOS, designed to be used within react native, optimising performance for key features like edition downloads, audio playlists, and iOS media player controls.
+
+### Technologies ###
+Swift | Swift-UI | React-Native | AWS Amplify | AWS Services | lottie-ios | Revenue Cat 
+
+<p align="center">
+<img src="images/bondbyvoice.jpg" width="700">
+</p>
+
+#  iOS 
+
 ## [Economist App](https://apps.apple.com/us/app/the-economist-us-world-news/id1239397626)
 
 The Economist app provides users with intelligent insights on global affairs, finance, politics, science, and culture through high-quality journalism. The app features:
