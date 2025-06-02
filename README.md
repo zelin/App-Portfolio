@@ -76,7 +76,7 @@ Feel free to schedule a meeting with me using the "Book Now" button
 
 #  iOS 
 
-## [Bond By Voice](In Works)
+## [Bond By Voice](https://www.bondbyvoice.com/) (In Works)
 
 A mobile app that transforms children's songs, stories, and lullabies by integrating a parent's voice to create a deeply personal experience.
 Designed to strengthen the emotional bond between parents and children through personalized audio content.
@@ -135,6 +135,37 @@ Swift(4-5) | Firebase | React-Native | GraphQL | SwiftJWT | Storyboards | lottie
 </p>
 
 
+## [Human Limits](https://apps.apple.com/us/app/human-limits/id6740463511)
+
+Human Limits isn't your typical yoga app. We embrace your journey exactly as it is—messy, real, and raw. Whether you're feeling lost, stuck, or simply seeking a more authentic approach to yoga, we meet you where you are.
+
+### My Role ###
+
+Built the entire React Native app for Human Limits, targeting both iOS and iPad.
+
+Integrated Kinde for secure authentication and role-based access control.
+
+Implemented customizable audio tracklists and a dedicated podcast section with offline support.
+
+Developed a remote-configurable paywall using Firebase to support dynamic subscription models.
+
+Created personalized training plans based on user preferences and progress.
+
+Integrated in-app purchases and subscription validation across platforms.
+
+Collaborated on an inclusive UI that reflects the brand’s message of growth without pressure.
+
+Structured a scalable frontend to support future community and social features.
+
+### Technologies ###
+Swift 5 | React Native | Tailwind - Nativewind | GraphQL | Firebase | Kinde
+
+<p align="center">
+<img src="images/human-limits/1.webp" width="190">&nbsp;&nbsp;
+<img src="images/human-limits/2.webp" width="190">&nbsp;&nbsp;
+<img src="images/human-limits/3.webp" width="190">&nbsp;&nbsp;
+<img src="images/human-limits/4.webp" width="190">
+</p>
 
 ## [Dubai Mall App](https://apps.apple.com/ae/app/the-dubai-mall/id430795858)
 
@@ -142,7 +173,12 @@ Experience the world’s largest luxury mall from your phone - Dubai Mall mobile
 
 ### My Role ###
 
-Sole iOS developer. Implemented both app and firebase architecture as per clients requirments and business logic. Entire solution includes mobile apps iOS/Android, firebase functions and angular based backend portal for admins.
+Contributed to the Inventory Operations module, enabling real-time stock updates and seamless product management across store locations.
+
+Developed and integrated key features to support delivery tracking, including route optimization and live status updates for dispatched items.
+
+Ensured smooth coordination between inventory data and delivery flow to minimize delays and enhance efficiency.
+Focused on building scalable, user-friendly interfaces that aligned with the Dubai Mall app’s high-quality user experience standards.
 
 ### Technologies ###
 Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | MaterialComponents-iOS | Storyboards | lottie-ios | Firebase Functions
@@ -153,7 +189,6 @@ Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | MaterialComponents-iOS 
 <img src="images/dubai-mall/3.webp" width="190">&nbsp;&nbsp;
 <img src="images/dubai-mall/4.webp" width="190">
 </p>
-
 
 ## [Cupz](https://apps.apple.com/us/app/cupz-coffee-save/id1457236593)
 
