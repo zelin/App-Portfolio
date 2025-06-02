@@ -102,8 +102,6 @@ Swift | Swift-UI | React-Native | AWS Amplify | AWS Services | lottie-ios | Reve
 <img src="images/bondbyvoice.jpg" width="700">
 </p>
 
-#  iOS 
-
 ## [Economist App](https://apps.apple.com/us/app/the-economist-us-world-news/id1239397626)
 
 The Economist app provides users with intelligent insights on global affairs, finance, politics, science, and culture through high-quality journalism. The app features:
@@ -136,7 +134,26 @@ Swift(4-5) | Firebase | React-Native | GraphQL | SwiftJWT | Storyboards | lottie
 <img src="images/economist/2.webp" width="390">&nbsp;&nbsp;
 </p>
 
-#  iOS 
+
+
+## [Dubai Mall App](https://apps.apple.com/ae/app/the-dubai-mall/id430795858)
+
+Experience the world’s largest luxury mall from your phone - Dubai Mall mobile app. Plan your visit, use turn-by-turn navigation to 1300+ stores, and earn exclusive rewards for everything you buy with Emirates Skywards. With 200+ restaurants to choose from, and real-time notifications on the best offers, you’ll experience all Dubai Mall has to offer ahead of every visit.
+
+### My Role ###
+
+Sole iOS developer. Implemented both app and firebase architecture as per clients requirments and business logic. Entire solution includes mobile apps iOS/Android, firebase functions and angular based backend portal for admins.
+
+### Technologies ###
+Swift(4-5) | Firebase | CoreLocation | Hero | SwiftJWT | MaterialComponents-iOS | Storyboards | lottie-ios | Firebase Functions
+
+<p align="center">
+<img src="images/dubai-mall/1.webp" width="190">&nbsp;&nbsp;
+<img src="images/dubai-mall/2.webp" width="190">&nbsp;&nbsp;
+<img src="images/dubai-mall/3.webp" width="190">&nbsp;&nbsp;
+<img src="images/dubai-mall/4.webp" width="190">
+</p>
+
 
 ## [Cupz](https://apps.apple.com/us/app/cupz-coffee-save/id1457236593)
 
