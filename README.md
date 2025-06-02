@@ -325,24 +325,6 @@ Angular | Material UI Components | Ng Zorro | Typescript | Firestore | Firebase 
 <img src="images/shift.png" width="700">
 </p>
 
-# Other Projects
-
-### iOS
-
-1. [Novio](https://apps.apple.com/tr/app/novio/id1511527011)
-2. [Shitswee?](https://apps.apple.com/sa/app/shitswee/id1503739113)
-3. [The Vow](https://apps.apple.com/us/app/the-vow-ring-finder/id509902433)
-4. [Tect O Trak](https://apps.apple.com/gb/app/tect-o-trak/id1175005465)
-5. [Tasweet](https://apps.apple.com/us/app/تصويت/id1539950284)
-6. [Wajeeh](https://apps.apple.com/us/app/id1316899768)
-
-### Android
-
-1. [NEXT - Book a ride in few taps](https://play.google.com/store/apps/details?id=com.devicebee.app.nextcar)
-2. [Tnerit](https://play.google.com/store/apps/details?id=com.devicebee.tnerit)
-3. [Eros](https://play.google.com/store/apps/details?id=com.devicebee.eros)
-4. [Sicuro](https://sicurogroup.com)  
-
 # Open Source Contributions
 
 ## [Animated Star Rating](https://github.com/zelin/Animated-Star-Rating) 
