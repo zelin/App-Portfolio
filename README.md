@@ -76,7 +76,7 @@ Feel free to schedule a meeting with me using the "Book Now" button
 
 #  iOS 
 
-## [Bond By Voice](https://www.bondbyvoice.com/) (In Works)
+## [Bond By Voice](https://www.bondbyvoice.com/)
 
 A mobile app that transforms children's songs, stories, and lullabies by integrating a parent's voice to create a deeply personal experience.
 Designed to strengthen the emotional bond between parents and children through personalized audio content.
